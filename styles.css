@@ -10,4 +10,11 @@ body {
 
 section {
   margin-bottom: 3rem; /* Just adding some separation between our demos */
+}
+
+.list {
+  margin: 1rem;
+}
+.list .list__item--strikethrough {
+  text-decoration: line-through;
 }/*# sourceMappingURL=styles.css.map */
